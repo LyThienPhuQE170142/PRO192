@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BaiTap {
+public class LO2LO3 {
 
     public static void main(String[] args) {
         // Khởi tạo Scanner để đọc từ bàn phím

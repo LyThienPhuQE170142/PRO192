@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HandlingExceptions {
+public class LO4 {
 
     public static void main(String[] args) {
         // Xử lý exception cho trường hợp chia cho số 0
